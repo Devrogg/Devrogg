@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Devrogg
+- 👀 I’m interested in front-end code. 
+- 🌱 I’m currently learning about servicenow, HTML, CSS, Javascript and Angular
+- 💞️ I’m looking to collaborate on learn about servicenow features
+- 📫 My linkedin: https://www.linkedin.com/in/igor-martins-fernandes-58743456/
